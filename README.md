@@ -20,7 +20,7 @@ For the new version of Gitlab：
 1. https//gitlab.com or your GitLab server 
 1. input your email address or username 
 1. your password (not the token)
-1. use "GitLab ApiV4 Oauth2" don't use "API v4" as the  instructions direct
+1. use "GitLab ApiV4 Oauth2" don't use "API v4" as the    instructions direct
 1. Two-Factor : Off
 
 For older versions of Gitlab
